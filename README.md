@@ -46,6 +46,7 @@ for i in range(n):
 ```
 
 ## Output:
+<img width="894" height="866" alt="image" src="https://github.com/user-attachments/assets/09340546-ed65-444a-9808-df4a044daff6" />
 
 
 
