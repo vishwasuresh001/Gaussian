@@ -13,9 +13,6 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 3. Using the np.linalg.eig(), we get two results (first is eigenvalue and second is eigenvector) of the given matrix.
 4.End the program
 
-Program to find the solution of a matrix using Gaussian Elimination.
-Developed by: vishwa s
-RegisterNumber: 25012636
 ## Program:
 ```
 
@@ -42,6 +39,11 @@ for i in range(n-2,-1,-1):
     x[i]=x[i]/a[i][i]
 for i in range(n):
     print("X%d = %0.2f"%(i,x[i]),end=" ")
+
+
+Program to find the solution of a matrix using Gaussian Elimination.
+Developed by: vishwa s
+RegisterNumber: 25012636
 ```
 
 ## Output:
